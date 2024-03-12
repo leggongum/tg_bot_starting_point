@@ -1,0 +1,4 @@
+aiogram==3.4.1
+fastapi==0.110.0
+pydantic-settings==2.2.1
+uvicorn==0.28.0
